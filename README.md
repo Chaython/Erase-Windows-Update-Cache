@@ -6,8 +6,10 @@ Fixes issues like "Some update files are missing or have problems" or when it co
 
 I recommend using WSUS offline to update Windows in the future https://download.wsusoffline.net/
 
-Need to activate Windows or MS office? https://github.com/abbodi1406/KMS_VL_ALL_AIO
+Need to activate Windows or MS office? [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 Disable telemetry UWP apps and other stuff? https://www.w10privacy.de/deutsch-start/download/
 
-Customize Windows? https://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10
+Customize Windows? [windhawk](https://github.com/ramensoftware/windhawk)
+
+Functionality is integrated in [Windows Maintenance Tool](https://github.com/Chaython/Windows-Maintenance-Tool)
